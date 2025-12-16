@@ -15,5 +15,5 @@ I care about:
 - Thoughtful UX
 - Clean architecture
 
-🌐 Portfolio: my-site-url  
-💼 LinkedIn: my-linkedin-url
+🌐 Portfolio: coming soon  
+💼 LinkedIn: coming soon
