@@ -15,5 +15,5 @@ I care about:
 - Thoughtful UX
 - Clean architecture
 
-🌐 Portfolio: coming soon  
+🌐 Web: https://zaferyilmaz.dev/  
 💼 LinkedIn: coming soon
