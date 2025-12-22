@@ -16,4 +16,4 @@ I care about:
 - Clean architecture
 
 🌐 Web: https://zaferyilmaz.dev/  
-💼 LinkedIn: coming soon
+💼 LinkedIn: https://www.linkedin.com/in/zaferyilmaznet/
