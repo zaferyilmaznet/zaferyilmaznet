@@ -1,10 +1,10 @@
 # Hi, I'm Zafer 👋
 
-International Market Expansion Strategist with 20+ years of experience helping industrial manufacturers grow across EMEA and CIS.
+International business strategist specializing in market expansion, export strategy, and business development for industrial manufacturers across EMEA and CIS.
 
-Alongside my international business career, I develop software to deepen my technical understanding and build practical tools. My interests include JavaScript, TypeScript, Python, AI, automation, APIs, and data-driven solutions that support international business.
+My background is in building international markets, developing commercial partnerships, and creating structured approaches for sustainable global growth. Alongside this work, I use software development, AI, and automation as tools to better understand technology-driven industries and create practical solutions for business challenges.
 
-Technology has become an important part of how I approach industrial markets, enabling more effective communication with engineering teams and a better understanding of modern manufacturing, automation, robotics, and AI-enabled products.
+My technical interests include JavaScript, TypeScript, Python, APIs, AI systems, and data-driven applications. This combination of international commercial experience and technical literacy helps me communicate effectively with engineering teams and understand the opportunities created by modern manufacturing, automation, robotics, and intelligent technologies.
 
 ### Current focus
 - International market expansion
