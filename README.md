@@ -1,6 +1,6 @@
 # Hi, I'm Zafer 👋
 
-International business strategist specializing in market expansion, export strategy, business development, strategic sourcing, and supply chain development for industrial companies across China, EMEA, CIS, and global markets.
+International business development professional specializing in market expansion, export strategy, business development, strategic sourcing, and supply chain development for industrial companies across China, EMEA, CIS, and global markets.
 
 My background is in building international markets, developing commercial partnerships, and creating structured approaches for sustainable global growth. Alongside this work, I use software development, AI, and automation as tools to better understand technology-driven industries and create practical solutions for business challenges.
 
